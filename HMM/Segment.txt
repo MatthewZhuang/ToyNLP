@@ -1,1 +1,2 @@
-
+Here are the corpus with 'BEIS' labels for segment.
+You can implement you seg tool with the corpus.
